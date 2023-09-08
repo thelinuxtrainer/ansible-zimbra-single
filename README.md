@@ -1,6 +1,6 @@
-ansible-zimbra-single
-=====================
-
+Zimbra Ansible Single Server
+============================
+ 
 This role automates the process of installing single-server Zimbra Open Source Edition v8.8.15 and v9.0.0 on CentOS 7, CentOS 8, Rocky Linux 8, Ubuntu 18.04, and Ubuntu 20.04.
 
 Requirements
