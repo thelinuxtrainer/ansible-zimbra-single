@@ -19,8 +19,8 @@ Installing Ansible and "netaddr" module using PIP
 Role Variables
 --------------
 
-    zimbra_timezone: Asia/Singapore
-    zimbra_fqdn: mail.example.com
+    zimbra_timezone: Asia/Colombo
+    zimbra_fqdn: mail.libreworkspace.org
     zimbra_admin_password: zimbra4ever
 
 Example Playbook
