@@ -36,7 +36,7 @@ Create playbook similar below:
       vars:
         zimbra_timezone: Asia/Colombo
         zimbra_fqdn: mail.libreworkspace.org
-        zimbra_admin_password: zimbra4ever
+        zimbra_admin_password: chanGEme
       roles:
         - ansible-zimbra-single
 
