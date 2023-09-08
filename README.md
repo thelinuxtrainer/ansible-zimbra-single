@@ -21,8 +21,8 @@ Role Variables
 
     zimbra_timezone: Asia/Colombo
     zimbra_fqdn: mail.libreworkspace.org
-    zimbra_admin_password: zimbra4ever
-
+    zimbra_admin_password: fCvG2KqLJ5B653kN
+    
 Example Playbook
 ----------------
 
