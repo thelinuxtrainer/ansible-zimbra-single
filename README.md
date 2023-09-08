@@ -66,5 +66,11 @@ MIT License
 Author Information
 ------------------
 
-- Author: Jan Cubillan
+- Author: Chinthaka Deshapriya
+- GitHub: https://github.com/cdeshapriya
+
+Original Credits 
+-----------------
+
 - GitHub: https://github.com/jancubillan
+  
