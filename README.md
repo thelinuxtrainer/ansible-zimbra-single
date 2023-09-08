@@ -21,7 +21,7 @@ Role Variables
 
     zimbra_timezone: Asia/Colombo
     zimbra_fqdn: mail.libreworkspace.org
-    zimbra_admin_password: fCvG2KqLJ5B653kN
+    zimbra_admin_password: chanGEme
     
 Example Playbook
 ----------------
@@ -31,12 +31,11 @@ NOTE: ANSIBLE MANAGED NODE TESTED TO RUN AS ROOT ONLY!
 Create playbook similar below:
 
     # vi site.yml
-
     --- 
-    - hosts: zimbra
+    - hosts: mail
       vars:
-        zimbra_timezone: Asia/Singapore
-        zimbra_fqdn: mail.example.com
+        zimbra_timezone: Asia/Colombo
+        zimbra_fqdn: mail.libreworkspace.org
         zimbra_admin_password: zimbra4ever
       roles:
         - ansible-zimbra-single
